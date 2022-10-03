@@ -23,7 +23,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 4. [Data visualization.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/EDA%20with%20Visualization.ipynb)
 5. [Model development.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Machine_Learning_Prediction.ipynb)
 6. [Model evaluation.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Machine_Learning_Prediction.ipynb)
-7. Reporting.
+7. [Reporting.](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/Data%20Science%20Capstone.pdf)
 
 ![This is an image](https://github.com/Athari22/Applied-Data-Science-Capstone/blob/main/m.png)
 
